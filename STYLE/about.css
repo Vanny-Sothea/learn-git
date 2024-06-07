@@ -1,0 +1,94 @@
+/* List */
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+/* Name */
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+/* link */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Secular+One&display=swap');
+body{
+   margin: 0;
+   padding: 0;
+}
+#list{
+   padding-right: 1rem;
+   padding-top: 1.8rem;
+   font-size: 1.2em;
+   float: right;
+}
+.list{
+   font-weight: bolder;
+   font-family: 'Secular One', sans-serif;
+   margin-right: 0.6rem;
+   color: rgb(50, 50, 50);
+   text-decoration: none;
+}
+#list:hover{
+   padding-top: 28px;
+}
+.list:hover{
+   font-size: 20px;
+   color: black;
+   text-decoration: underline;
+}
+#about{
+   color: black;
+   text-decoration: underline;
+}
+#box{
+   padding-top: 3rem;
+   padding-left: 5rem;
+   margin-top: 4rem;
+   border-top: 1px solid rgba(0, 0, 0, 0.3);
+}
+#profile{
+   width: 20em;
+   float: left;
+}
+#information{
+   margin-top: -0.6rem;
+   padding-bottom: 2rem;
+   padding-left: 22rem;
+   line-height: 1px;
+}
+#name{
+   color: rgb(40, 40, 40);
+   font-family: 'Secular One', sans-serif;
+   font-weight: bold;
+   font-size: 1.8em;
+   text-transform: capitalize;
+}
+#link{
+   font-size: 14px;
+   font-family: 'Secular One', sans-serif;
+   color: rgb(0, 104, 202);
+   text-decoration: none;
+}
+#progress{
+   padding-top: 1.5rem;
+   font-size: 1rem;
+   font-family: 'Secular One', sans-serif;
+   color: rgb(50, 50, 50);
+}
+.paragraph{
+   line-height: normal;
+   color: rgb(80, 80, 80);
+}
+.paragraph2{
+   font-size: 14px;
+   color: rgb(80, 80, 80);
+   font-weight: lighter;
+   line-height: 2rem;
+}
+#educated{
+   border-left: 1px solid black;
+   padding-left: 1rem;
+   padding-right: 3rem;
+   line-height: 2rem;
+   margin-top: -14rem;
+   text-align: left;
+   color: rgb(50, 50, 50);
+   font-family: 'Secular One', sans-serif;
+   font-weight: bold;
+   font-size: 1.4em;
+   text-transform: uppercase;
+   float: right;
+}

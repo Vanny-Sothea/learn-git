@@ -1,0 +1,172 @@
+/* list */
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+/* title */
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+/* paragraph */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Secular+One&display=swap');
+/* khmer */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer&display=swap');
+
+body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   display: block;
+}
+#list{
+   padding-right: 1rem;
+   padding-top: 1.8rem;
+   font-size: 1.2em;
+   float: right;
+}
+.list{
+   font-weight: bolder;
+   font-family: 'Secular One', sans-serif;
+   margin-right: 0.6rem;
+   color: rgb(50, 50, 50);
+   text-decoration: none;
+}
+#list:hover{
+   padding-top: 28px;
+}
+.list:hover{
+   font-size: 20px;
+   color: black;
+   text-decoration: underline;
+}
+#project{
+   color: black;
+   text-decoration: underline;
+}
+
+#box{
+   padding-bottom: 3rem;
+   padding-top: 3rem;
+   margin-top: 4rem;
+   border-top: 1px solid rgba(0, 0, 0, 0.3);
+}
+#title{
+   padding-bottom: 2rem;
+   margin-bottom: 2rem;
+   text-align: center;
+   color: rgb(10, 0, 39);
+   font-family: 'Secular One', sans-serif;
+   font-weight: bold;
+   font-size: 3em;
+   text-transform: uppercase;
+}
+#image{
+   padding: 0px 0px 0px 50px;
+   border-top: 2px solid rgb(171, 171, 171);
+}
+.lastimg{
+   border-bottom: 2px solid rgb(171, 171, 171);
+}
+.image{
+   border-radius: 2;
+   width: 6rem;
+}
+.image:hover{
+   width: 7rem;
+}
+#freelogo{
+   border: 10px solid rgb(70, 70, 70);
+   border-radius: 2px;
+}
+#lbokktor{
+   border: 10px solid goldenrod;
+   border-radius: 2px;
+}
+#soya{
+   border: 10px solid pink;
+   border-radius: 2px;
+}
+#AE{
+   border: 10px solid tomato;
+   border-radius: 2px;
+}
+#khmer{
+   font-family: 'Noto Serif Khmer', serif;
+   font-weight: bolder;
+}
+.para{
+   font-family: 'Secular One', sans-serif;
+   font-size: 1.4rem;
+   font-weight: lighter;
+   color: rgb(50, 50, 50);
+   margin-left: 3rem;
+   margin-right: 3rem;
+}
+#viewnow{
+   margin-left: -3rem;
+}
+.viewnow{
+   text-decoration: none;
+   text-align: center;
+   font-family: 'Secular One', sans-serif;
+   color: rgb(0, 104, 202);
+   border: 2px solid rgb(0, 104, 202);
+   border-radius: 10px;
+   font-size: 12px;
+}
+.info{
+   font-size: 1.1rem;
+   color: rgb(80, 80, 80);
+}
+#title2{
+   text-align: center;
+   color: rgb(10, 0, 39);
+   font-family: 'Secular One', sans-serif;
+   font-weight: bold;
+   font-size: 2em;
+   text-transform: uppercase;
+}
+#srcambodia{
+   width: 200px;
+   margin: 0px auto;
+   display: flex;
+   justify-content: center;
+   position: relative;
+}
+#srpic{
+   border: 4px solid brown;
+   border-radius: 10px;
+   display: block;
+   box-sizing: border-box;
+   width: 100%;
+   height: 300px;
+}
+#learnmore:hover{
+   color: rgb(0, 104, 202);
+   font-size: 17px;
+   text-decoration: underline;
+}
+#learnmore{
+   text-decoration: none;
+   bottom: 10px;
+   color: white;
+   text-align: center;
+   width: 7rem;
+   position: absolute;
+   font-size: 1em;
+   font-family: 'Secular One', sans-serif;
+   border-radius: 13px;
+   background: rgba(255, 255, 255, 0.2);
+}
+#end{
+   color: rgb(182, 182, 182);
+   height: 6rem;
+   background: rgb(20, 20, 20);
+   text-align: center;
+   line-height: 10px;
+   padding-top: 10px;
+}
+#copyright{
+   font-size: 1.3em;
+}
+#creator{
+   text-decoration: underline;
+   font-size: 1.5em;
+   text-transform: uppercase;
+   font-family: 'Secular One', sans-serif;
+}
